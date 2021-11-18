@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 This is the current state of Pegasus:
-![Pegasus_destruction.jpg]{Pegasus_destruction.jpg}
+![Pegasus_destruction.jpg](Pegasus_destruction.jpg)
 
 Syntax highlighted code block
 
